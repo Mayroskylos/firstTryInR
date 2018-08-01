@@ -1,0 +1,5 @@
+[{"name":"timeBasedError","percentage":"50"},
+{"name":"eventBasedConsumptionError","percentage":"10"},
+{"name":"eventBasedIdentificationError","percentage":"30"},
+{"name":"impression","percentage":"0"},
+{"name":"fpMultiplier","multiplier":"2"}]

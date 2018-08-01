@@ -1,0 +1,7 @@
+[{"name":"dishWasher","multiplier":"1.5"},
+{"name":"washingMachine","multiplier":"3"},
+{"name":"hob","multiplier":"0"},
+{"name":"oven","multiplier":"0"},
+{"name":"dryer","multiplier":"2"},
+{"name":"electricShower","multiplier":"0"},
+{"name":"electricVehicle","multiplier":"0"}]
